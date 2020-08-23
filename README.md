@@ -7,6 +7,8 @@
 Идея в том, чтобы вкидывать друг другу полезную инфу по плюсам и по возможности обучать друг друга, \
 ведь весь язык С++ не знает даже *Аллаh*.
 
+![chad.jpg](https://github.com/CodingPenguinParty/kernel/blob/master/images/chad.jpg)
+
 ### Навигация
 
 - [Полезные ресурсы для изучения C++](https://github.com/CodingPenguinParty/kernel/blob/master/useful_resources.md)
