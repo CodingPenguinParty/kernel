@@ -1,6 +1,6 @@
 # Полезные ресурсы для изучения C++
 
-![roadmap.png](https://github.com/CodingPenguinParty/kernel/blob/master/images/roadmap.png)
+![roadmap_meme.png](https://github.com/CodingPenguinParty/kernel/blob/master/images/roadmap_meme.png)
 
 ## Содержание
 
