@@ -6,6 +6,8 @@
 ## Базовый синтаксис C++
 
 - [Курс от Яндекса на Stepik](https://stepik.org/course/363)
+- [Курс "Основы разработки на C++: белый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=Pl4ufpPXEeaNFwpTUaS5fQ&productType=course&query=с%2B%2B+белый+пояс&showMiniModal=true)
+- [Курс "Основы разработки на C++: жёлтый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=wNYswUxHEeelTA5rVsWkbg&productType=course&query=с%2B%2B+желтый+пояс&showMiniModal=true)
 - [Сайт Ravesli](https://ravesli.com/uroki-cpp/#toc-0)
 - [Липпман "Язык программирования C++ (водный курс)"](http://tka4.org/materials/lib/Articles-Books/C++/Стенли%20Липпман,%20Жози%20Лажойе%20-%20Язык%20программирования%20C++.%20Вводный%20курс.pdf)
 
@@ -29,6 +31,10 @@
 
 - Курс от CSC на Stepik ([часть 1](https://stepik.org/course/7) и [часть 2](https://stepik.org/course/3206))
 - [Курс от забавного физтеховского чела на ютубе](https://www.youtube.com/playlist?list=PL4_hYwCyhAvY2dY_tnTv3-TJThzcloCvM)
+- Более сложный курс от CSC на ютубе ([часть 1](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL) и [часть 2](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN))
+- [Курс "Основы разработки на C++: красный пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=vHqyWKloEee4dQ4f4OrUMg&productType=course&query=с%2B%2B+красный+пояс&showMiniModal=true)
+- [Курс "Основы разработки на C++: коричневый пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=0jkatqloEeecJQoI0GzQzg&productType=course&query=с%2B%2B+коричневый+пояс&showMiniModal=true)
+- [Курс "Основы разработки на C++: чёрный пояс" на Coursera](https://www.coursera.org/programs/itmo-university-al-mvhbz/browse?productId=4AfNP6loEeevAAqY8Yp9-A&productType=course&query=с%2B%2B+черный+пояс&showMiniModal=true)
 - [Мейерс "Эффективный и современный C++"](https://coollib.net/b.usr/Skott_Meyers_Effektivnyiy_i_sovremennyiy_C%2B%2B.pdf)
 - Билеты с экзамена ИСа по программированию (в процессе)
 - [Статья про сборку программ на C++](https://habr.com/ru/post/478124/)
