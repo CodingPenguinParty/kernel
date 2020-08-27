@@ -88,4 +88,3 @@
   - ???
   
 ![Coding_Penguin_Party_Roadmap.png](https://github.com/CodingPenguinParty/kernel/blob/master/images/Coding_Penguin_Party_Roadmap.png)
-[Roadmap PDF](https://github.com/CodingPenguinParty/kernel/blob/master/images/Coding_Penguin_Party_Roadmap.pdf)
