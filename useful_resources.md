@@ -25,6 +25,7 @@
 - [Курс "Введение в Linux" на Stepik](https://stepik.org/course/73)
 - [Удобная документация C++](https://en.cppreference.com/w/)
 - [Курс по архитектуре ЭВМ на Stepik](https://stepik.org/course/253)
+- [Харрис Харрис "Цифровая схемотехника и архитектура компьютера"](http://easyelectronics.ru/files/Book/digital-design-and-computer-architecture-russian-translation.pdf)
 - [Рекомендации по стилю кода](https://habr.com/ru/post/172091/)
 
 ## Хорошая база по плюсам
@@ -43,6 +44,7 @@
 - [Статья про lvalue/rvalue](https://habr.com/ru/post/441742/)
 - [Статья про SOLID](https://medium.com/webbdev/solid-4ffc018077da)
 - [Некоторые вопросы с собеседований](http://www.quizful.net/interview/cpp)
+- [Крупный русскоязычный репозиторий с тестовыми заданиями](https://github.com/Hexlet/ru-test-assignments)
 
 ## Продвинутый уровень
 
@@ -52,6 +54,9 @@
 - [Курс по программированию для Linux на Stepik (Embedded на минималках)](https://stepik.org/course/548)
 - [Статья про векторизацию](https://algorithmica.org/ru/sse)
 - [Моя статья про интервалы](https://habr.com/ru/post/440388/)
+- [Русскоязычная книга по OpenCL](https://yadi.sk/i/CV3_186ovZECrA)
+- [Пиндосская книга про архитектуру игрового движка](https://yadi.sk/i/uSQW-WS4VFXhfA)
+- [Какая-то пиндосская книга про геймдев](https://yadi.sk/i/yWryeO_u5W62rQ)
 
 Разумеется, это не исчерпывающий набор материалов, чтобы хорошо шарить плюсы. Помимо вышеперечисленного есть куча полезных книг, статей на Хабре, вопросов на Stackoverflow и разных блогов/митапов. Не стесняйтесь дополнительно гуглить любую информацию, которая вам тяжело даётся, или спрашивать в беседе.
 
