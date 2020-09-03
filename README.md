@@ -12,3 +12,4 @@
 
 - [Полезные ресурсы для изучения C++](https://github.com/CodingPenguinParty/kernel/blob/master/useful_resources.md)
 - [Тестовое задание для вступления в секту](https://github.com/CodingPenguinParty/kernel/blob/master/test_assignment.md)
+- [Наши проекты](https://github.com/CodingPenguinParty/kernel/tree/master/our_projects)
